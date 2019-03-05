@@ -35,7 +35,8 @@ h1,h2{
 }
 
 h1{
-  font-size: 5em;
+  font-size: 10em;
+  font-family: georgia;
 }
 
 h2{
@@ -91,11 +92,12 @@ div.container{
   display: flex;
   padding: 10px;
   margin: 0 auto;
-  border-radius: 50%;
+  border-radius: 100%;
   justify-content: center;
   align-items: center;
   flex-direction:column;
 }
+
 a{
   color:rgb(0,0,0);
 }
