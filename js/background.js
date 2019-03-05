@@ -9,7 +9,7 @@ $( document ).ready(function(){
 
 
   // when the button is clicked it triggers a function
-  $('h1').on('click', function () {
+  $('p').on('click', function () {
 
     // 1. log to the console that you have clicked the button
     console.log("you've clicked the button")

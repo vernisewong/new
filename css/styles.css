@@ -79,6 +79,16 @@ div.Facebook{
   align-items: center;
   flex-direction:column;
 }
+
+div.container{
+  display: flex;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+}
 a{
   color:rgb(0,0,0);
 }
