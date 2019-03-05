@@ -92,3 +92,19 @@ div.container{
 a{
   color:rgb(0,0,0);
 }
+
+div.IceKachang{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80vw;
+}
+
+div.IceKachangImg{
+  height:200px;
+  width:200px;
+  padding:0px;
+  margin: 0 auto;
+  border-radius: 0%;
+  display: block;
+}
