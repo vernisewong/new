@@ -80,6 +80,12 @@ div.Facebook{
   flex-direction:column;
 }
 
+div.GoogleForm{
+  text-align:center;
+  margin: 0 auto;
+  display: block;
+}
+
 div.container{
   display: flex;
   padding: 10px;
