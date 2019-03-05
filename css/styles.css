@@ -1,7 +1,11 @@
 body{
-  color: rgb(98,132,141);
+  color: rgb(0,0,0);
   font-family: garamond;
   margin:0px
+}
+
+body{
+  background-image: url("../images/GEM.jpg");
 }
 
 div{
@@ -25,7 +29,7 @@ img{
   display:flex;
   padding:20px;
   margin: 0 auto;
-  border-radius: 130px
+  border-radius: 50%
 }
 p{
   width:40%;
