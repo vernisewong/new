@@ -16,23 +16,19 @@ div{
 
 div.modal-header{
   min-height: 10vh;
-  width: 100vw;
+  width: 100%;
 }
 
 div.modal-body{
   min-height: 10vh;
-  width: 100vw;
+  width: 100%;
 }
 
 div.modal-footer{
   min-height: 10vh;
-  width: 100vw;
+  width: 100%;
 }
 
-h3{
-  text-align: justified;
-  font-size:1.5em;
-}
 
 h1,h2{
   text-align:center;
@@ -44,6 +40,11 @@ h1{
 
 h2{
   font-size:2.5em;
+}
+
+h3{
+  font-size:1em;
+  text-align:left;
 }
 
 img{
